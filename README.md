@@ -2,9 +2,9 @@
 
 
 
-
-
 ## :zap: I am a French full-stack engineer, I love challenges and _microservices_, safe to say I know what I'm doing right ? :hatching_chick:
+
+
 
 
 
@@ -29,6 +29,10 @@
 
 
 
+
+
+
+
 ### Feel free to contact me :
 
 <div id="badges" align="center">
@@ -36,6 +40,12 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
+
+
+
+
+
+
 
 
 _If you go here, you can click.._
