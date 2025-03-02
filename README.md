@@ -2,7 +2,7 @@
 
 ## :zap: I am a French full-stack engineer, I love challenges and _microservices_, safe to say I know what I'm doing right ? :hatching_chick:
 
-### :rocket: This is my main technologies, but i love discover new things :
+### :rocket: This is my main technologies, but i love discover new things:
 
 <br>
 <br>
